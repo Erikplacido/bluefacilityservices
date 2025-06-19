@@ -1,0 +1,5 @@
+{
+  "name": "Service Booking System",
+  "description": "A web application for booking various services, configuring options, and managing appointments.",
+  "requestFramePermissions": []
+}
